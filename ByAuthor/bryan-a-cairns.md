@@ -1,0 +1,20 @@
+﻿<div align="center">
+
+## All Submissions by Bryan A\. Cairns
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [Design a Form at Run Time just like in VB\!<br /><sup>2002-05-08 01:56:00</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-design-a-form-at-run-time-just-like-in-vb__1-34549) | [OLE/ COM/ DCOM/ Active\-X<br /><sup>Visual Basic</sup>](../ByCategory/ole-com-dcom-active-x__1-29.md) | Bryan A\. Cairns | 4.9 (163 globes from 33 users)
+2 | [Rich Text Label THAT WORKS<br /><sup>2002-05-09 19:28:28</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-rich-text-label-that-works__1-34624) | [OLE/ COM/ DCOM/ Active\-X<br /><sup>Visual Basic</sup>](../ByCategory/ole-com-dcom-active-x__1-29.md) | Bryan A\. Cairns | 4.9 (127 globes from 26 users)
+3 | [SendMail Without Server<br /><sup>2001-11-09 18:23:26</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-sendmail-without-server__1-28784) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 4.3 (113 globes from 26 users)
+4 | [MS Agent Clone Version 2 \(A MUST SEE\)<br /><sup>2002-03-12 02:06:32</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-ms-agent-clone-version-2-a-must-see__1-32608) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 4.9 (98 globes from 20 users)
+5 | [MS Agent Clone \- A MUST SEE<br /><sup>2002-03-08 00:06:52</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-ms-agent-clone-a-must-see__1-32445) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 4.9 (83 globes from 17 users)
+6 | [Windows Regions \(the easy way\)<br /><sup>2002-02-17 00:21:02</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-windows-regions-the-easy-way__1-31865) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 4.7 (71 globes from 15 users)
+7 | [ASP Code Generator \(essential tools of the web master\)<br /><sup>2002-03-06 20:31:00</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-asp-code-generator-essential-tools-of-the-web-master__1-32417) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 4.8 (43 globes from 9 users)
+8 | [Multi Channel Sound Playing<br /><sup>2002-02-08 21:31:14</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-multi-channel-sound-playing__1-31626) | [Sound/MP3<br /><sup>Visual Basic</sup>](../ByCategory/sound-mp3__1-45.md) | Bryan A\. Cairns | 5.0 (35 globes from 7 users)
+9 | [View HTML without MS Controls 1\.2 \- Speed Bug Fixed<br /><sup>2002-01-07 16:37:22</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-view-html-without-ms-controls-1-2-speed-bug-fixed__1-30461) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | Bryan A\. Cairns | 4.9 (34 globes from 7 users)
+10 | [Kick Butt Intellisense<br /><sup>2001-11-09 10:23:30</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-kick-butt-intellisense__1-28775) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 4.1 (29 globes from 7 users)
+11 | [ASP Server CGI<br /><sup>2002-08-09 03:09:08</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-asp-server-cgi__1-37762) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Bryan A\. Cairns | 5.0 (15 globes from 3 users)
+12 | [Newbie Database Helper<br /><sup>2002-04-23 02:33:24</sup>](https://github.com/Planet-Source-Code/bryan-a-cairns-newbie-database-helper__1-34057) | [Databases/ Data Access/ DAO/ ADO<br /><sup>Visual Basic</sup>](../ByCategory/databases-data-access-dao-ado__1-6.md) | Bryan A\. Cairns | 5.0 (10 globes from 2 users)

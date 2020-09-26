@@ -1,0 +1,21 @@
+﻿<div align="center">
+
+## All Submissions by Mark Anthony Dinglasa
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [A Crash Course in SQL<br /><sup>2005-12-12 00:10:06</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-a-crash-course-in-sql__1-63619) | [Databases/ Data Access/ DAO/ ADO<br /><sup>Visual Basic</sup>](../ByCategory/databases-data-access-dao-ado__1-6.md) | Mark Anthony Dinglasa | 4.9 (54 globes from 11 users)
+2 | [Advance Topics on ADO<br /><sup>2005-12-12 23:00:04</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-advance-topics-on-ado__1-63629) | [Databases/ Data Access/ DAO/ ADO<br /><sup>Visual Basic</sup>](../ByCategory/databases-data-access-dao-ado__1-6.md) | Mark Anthony Dinglasa | 5.0 (45 globes from 9 users)
+3 | [VB Intrinsic Controls Shadow<br /><sup>2005-12-13 06:00:04</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-vb-intrinsic-controls-shadow__1-63633) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Mark Anthony Dinglasa | 4.6 (41 globes from 9 users)
+4 | [Cool Text 3D Animations<br /><sup>2004-01-31 15:36:40</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-cool-text-3d-animations__1-51708) | [String Manipulation<br /><sup>Visual Basic</sup>](../ByCategory/string-manipulation__1-5.md) | Mark Anthony Dinglasa | 4.5 (18 globes from 4 users)
+5 | [VB Controls Tip<br /><sup>2005-11-20 12:46:28</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-vb-controls-tip__1-63391) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Mark Anthony Dinglasa | 4.5 (18 globes from 4 users)
+6 | [Mini\-Grocery System Using SQL Statements<br /><sup>2004-02-17 01:56:26</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-mini-grocery-system-using-sql-statements__1-51860) | [Databases/ Data Access/ DAO/ ADO<br /><sup>Visual Basic</sup>](../ByCategory/databases-data-access-dao-ado__1-6.md) | Mark Anthony Dinglasa | 5.0 (15 globes from 3 users)
+7 | [Accept Only Numbers in Textbox \!<br />](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-accept-only-numbers-in-textbox__1-51262) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Mark Anthony Dinglasa | 3.8 (15 globes from 4 users)
+8 | [Command Buttons Trick \!<br /><sup>2005-12-03 23:40:06</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-command-buttons-trick__1-63479) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Mark Anthony Dinglasa | 3.8 (15 globes from 4 users)
+9 | [Controlling IE the Simplest Way \!<br /><sup>2005-09-27 00:20:04</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-controlling-ie-the-simplest-way__1-62695) | [Coding Standards<br /><sup>Visual Basic</sup>](../ByCategory/coding-standards__1-43.md) | Mark Anthony Dinglasa | 4.3 (13 globes from 3 users)
+10 | [XP Themes \!<br />](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-xp-themes__1-63072) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Mark Anthony Dinglasa | 5.0 (10 globes from 2 users)
+11 | [Video/MP3 Player Updated \!<br /><sup>2005-12-06 18:52:18</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-video-mp3-player-updated__1-63544) | [Miscellaneous<br /><sup>Visual Basic</sup>](../ByCategory/miscellaneous__1-1.md) | Mark Anthony Dinglasa | 5.0 (10 globes from 2 users)
+12 | [Cool Calculator \!<br /><sup>2004-01-29 21:15:24</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-cool-calculator__1-51664) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Mark Anthony Dinglasa | 3.0 (9 globes from 3 users)
+13 | [Tips, Tricks and Essential Functions<br /><sup>2005-12-01 20:40:04</sup>](https://github.com/Planet-Source-Code/mark-anthony-dinglasa-tips-tricks-and-essential-functions__1-63441) | [Miscellaneous<br /><sup>Visual Basic</sup>](../ByCategory/miscellaneous__1-1.md) | Mark Anthony Dinglasa | 4.0 (8 globes from 2 users)

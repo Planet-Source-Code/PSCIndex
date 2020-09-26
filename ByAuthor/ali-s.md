@@ -1,0 +1,19 @@
+﻿<div align="center">
+
+## All Submissions by ali s
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [Transition Effects 4 \(UPDATED: ALPHA blend transition,alpha wipe and so\.\.\. about 18 effects\!\)<br /><sup>2002-08-07 19:52:30</sup>](https://github.com/Planet-Source-Code/ali-s-transition-effects-4-updated-alpha-blend-transition-alpha-wipe-and-so-about-18-effec__1-37699) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 4.9 (107 globes from 22 users)
+2 | [Transition Effects2 \(magic\!\)<br /><sup>2002-07-06 19:17:46</sup>](https://github.com/Planet-Source-Code/ali-s-transition-effects2-magic__1-36636) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 4.5 (94 globes from 21 users)
+3 | [Semi\-Transparent forms with fade effects \(See screenshot to believe\!\)<br /><sup>2002-07-26 13:32:40</sup>](https://github.com/Planet-Source-Code/ali-s-semi-transparent-forms-with-fade-effects-see-screenshot-to-believe__1-37265) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 4.2 (59 globes from 14 users)
+4 | [Cool Transition Effect \(magical graphic by vb\!\)<br /><sup>2002-06-17 18:35:06</sup>](https://github.com/Planet-Source-Code/ali-s-cool-transition-effect-magical-graphic-by-vb__1-35949) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 4.9 (54 globes from 11 users)
+5 | [Transition Effects 3\.5 \(15 effects, fast ,customizable,circle wipe,radial wipe,\.\.\.\) must see it<br /><sup>2002-07-23 12:13:32</sup>](https://github.com/Planet-Source-Code/ali-s-transition-effects-3-5-15-effects-fast-customizable-circle-wipe-radial-wipe-must-see__1-37177) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 5.0 (45 globes from 9 users)
+6 | [Texturized text, fade Text, Rotated text<br /><sup>2002-07-26 14:57:42</sup>](https://github.com/Planet-Source-Code/ali-s-texturized-text-fade-text-rotated-text__1-37273) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 5.0 (35 globes from 7 users)
+7 | [Skinnable Button and Checkbox with MouseOut Event\(no timer\-all in one control\)<br /><sup>2002-09-01 12:11:58</sup>](https://github.com/Planet-Source-Code/ali-s-skinnable-button-and-checkbox-with-mouseout-event-no-timer-all-in-one-control__1-39416) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 5.0 (35 globes from 7 users)
+8 | [XP Frame & Texbox \(Flat\!\)<br /><sup>2003-05-06 15:10:14</sup>](https://github.com/Planet-Source-Code/ali-s-xp-frame-texbox-flat__1-45301) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | ali s | 5.0 (25 globes from 5 users)
+9 | [Transition Effects 3\(Circle wipe added\!\)<br /><sup>2002-07-16 20:20:54</sup>](https://github.com/Planet-Source-Code/ali-s-transition-effects-3-circle-wipe-added__1-36947) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | ali s | 5.0 (20 globes from 4 users)
+10 | [Xp Frames \- XP Listbox,textbox,filelistbox \(updated\! ver3\)<br /><sup>2003-07-02 17:31:18</sup>](https://github.com/Planet-Source-Code/ali-s-xp-frames-xp-listbox-textbox-filelistbox-updated-ver3__1-46611) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | ali s | 4.5 (18 globes from 4 users)
+11 | [Xp Frames , Xp List Box And XpTextBox \(updated\!\)<br /><sup>2003-06-07 20:12:28</sup>](https://github.com/Planet-Source-Code/ali-s-xp-frames-xp-list-box-and-xptextbox-updated__1-46602) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | ali s | 3.0 (12 globes from 4 users)

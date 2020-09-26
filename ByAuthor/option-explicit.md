@@ -1,0 +1,17 @@
+﻿<div align="center">
+
+## All Submissions by Option Explicit
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [MorphTextBox \(UNICODE BETA\) \- Ownerdrawn Single Line TextBox Control<br /><sup>2007-04-14 16:15:06</sup>](https://github.com/Planet-Source-Code/option-explicit-morphtextbox-unicode-beta-ownerdrawn-single-line-textbox-control__1-60849) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (320 globes from 64 users)
+2 | [MorphListBox 1\.21 \- Graphical Listbox UserControl<br /><sup>2007-04-04 20:23:58</sup>](https://github.com/Planet-Source-Code/option-explicit-morphlistbox-1-21-graphical-listbox-usercontrol__1-62733) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (280 globes from 56 users)
+3 | [MorphDisplay v1\.11 \- LED / LCD Digital Display Control<br /><sup>2007-04-29 17:20:28</sup>](https://github.com/Planet-Source-Code/option-explicit-morphdisplay-v1-11-led-lcd-digital-display-control__1-64204) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (230 globes from 46 users)
+4 | [MorphOptionCheck 2\.22 \- Combo OptionButton/CheckBox UserControl<br /><sup>2006-04-27 17:53:12</sup>](https://github.com/Planet-Source-Code/option-explicit-morphoptioncheck-2-22-combo-optionbutton-checkbox-usercontrol__1-64948) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (135 globes from 27 users)
+5 | [MorphRangeRoamer v1\.02 \- Hybrid UpDown/Slider Usercontrol<br /><sup>2007-02-18 11:01:42</sup>](https://github.com/Planet-Source-Code/option-explicit-morphrangeroamer-v1-02-hybrid-updown-slider-usercontrol__1-67526) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (125 globes from 25 users)
+6 | [MorphBorder v1\.00 \- Gradient Border UserControl AND Class<br /><sup>2006-03-10 18:47:08</sup>](https://github.com/Planet-Source-Code/option-explicit-morphborder-v1-00-gradient-border-usercontrol-and-class__1-64572) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (120 globes from 24 users)
+7 | [MorphPicViewer v1\.01 \- Large Image Navigation Usercontrol<br /><sup>2007-03-24 09:17:58</sup>](https://github.com/Planet-Source-Code/option-explicit-morphpicviewer-v1-01-large-image-navigation-usercontrol__1-68042) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Option Explicit | 5.0 (70 globes from 14 users)
+8 | [Pixel Code Generator<br /><sup>2005-10-13 01:02:08</sup>](https://github.com/Planet-Source-Code/option-explicit-pixel-code-generator__1-62869) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Option Explicit | 5.0 (35 globes from 7 users)
+9 | [OmniGradient v1\.00 \- Gradient generation and display module<br /><sup>2006-03-18 21:07:02</sup>](https://github.com/Planet-Source-Code/option-explicit-omnigradient-v1-00-gradient-generation-and-display-module__1-64705) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Option Explicit | 5.0 (20 globes from 4 users)

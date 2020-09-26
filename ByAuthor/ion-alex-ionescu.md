@@ -1,0 +1,16 @@
+﻿<div align="center">
+
+## All Submissions by Ion Alex Ionescu
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [A 3\-in\-1: Studying's XP/NT's Core, Fastest Compression Ever, and Debug\.Print in Compiled Programs<br /><sup>2003-11-01 17:47:42</sup>](https://github.com/Planet-Source-Code/ion-alex-ionescu-a-3-in-1-studying-s-xp-nt-s-core-fastest-compression-ever-and-debug-print__1-49591) | [Windows API Call/ Explanation<br /><sup>Visual Basic</sup>](../ByCategory/windows-api-call-explanation__1-39.md) | Ion Alex Ionescu | 4.9 (450 globes from 91 users)
+2 | [UPDATED: NTFS Data Streams: the true way to hide information and extend your file system<br /><sup>2003-08-11 13:46:42</sup>](https://github.com/Planet-Source-Code/ion-alex-ionescu-updated-ntfs-data-streams-the-true-way-to-hide-information-and-extend-you__1-47299) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | Ion Alex Ionescu | 5.0 (380 globes from 76 users)
+3 | [Delete a file in use \- Run an EXE Hidden \- Run code in other process' memory \*NEW VERSION\*<br /><sup>2003-05-01 18:39:44</sup>](https://github.com/Planet-Source-Code/ion-alex-ionescu-delete-a-file-in-use-run-an-exe-hidden-run-code-in-other-process-memory-n__1-45195) | [Windows API Call/ Explanation<br /><sup>Visual Basic</sup>](../ByCategory/windows-api-call-explanation__1-39.md) | Ion Alex Ionescu | 4.8 (305 globes from 63 users)
+4 | [Delete a file in use \- Run an EXE in another process' memory \- EXE Hijacking<br /><sup>2003-04-21 08:18:02</sup>](https://github.com/Planet-Source-Code/ion-alex-ionescu-delete-a-file-in-use-run-an-exe-in-another-process-memory-exe-hijacking__1-44907) | [Windows API Call/ Explanation<br /><sup>Visual Basic</sup>](../ByCategory/windows-api-call-explanation__1-39.md) | Ion Alex Ionescu | 4.8 (179 globes from 37 users)
+5 | [Introduction to NT Intenals, Part 1<br /><sup>2004-06-15 22:31:48</sup>](https://github.com/Planet-Source-Code/ion-alex-ionescu-introduction-to-nt-intenals-part-1__1-54696) | [Windows API Call/ Explanation<br /><sup>Visual Basic</sup>](../ByCategory/windows-api-call-explanation__1-39.md) | Ion Alex Ionescu | 5.0 (60 globes from 12 users)
+6 | [How to make VB EXEs under 5K<br />](https://github.com/Planet-Source-Code/ion-alex-ionescu-how-to-make-vb-exes-under-5k__1-45413) | [Coding Standards<br /><sup>Visual Basic</sup>](../ByCategory/coding-standards__1-43.md) | Ion Alex Ionescu | 4.4 (48 globes from 11 users)
+7 | [Absolutely Fastest, Smallest  Code to Shutdown a Windows NT/2000/XP Computer<br />](https://github.com/Planet-Source-Code/ion-alex-ionescu-absolutely-fastest-smallest-code-to-shutdown-a-windows-nt-2000-xp-compute__1-53100) | [Windows API Call/ Explanation<br /><sup>Visual Basic</sup>](../ByCategory/windows-api-call-explanation__1-39.md) | Ion Alex Ionescu | 5.0 (35 globes from 7 users)
+8 | [NTFS Data Stream Update<br /><sup>2003-08-11 13:49:02</sup>](https://github.com/Planet-Source-Code/ion-alex-ionescu-ntfs-data-stream-update__1-47617) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | Ion Alex Ionescu | 5.0 (30 globes from 6 users)

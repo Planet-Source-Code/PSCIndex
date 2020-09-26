@@ -1,0 +1,22 @@
+﻿<div align="center">
+
+## All Submissions by Michael Heath
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [Basic VB Controls<br /><sup>2002-10-14 11:33:48</sup>](https://github.com/Planet-Source-Code/michael-heath-basic-vb-controls__1-9539) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | Michael Heath | 4.6 (46 globes from 10 users)
+2 | [AIChatter \[Update 2\]<br /><sup>2000-05-10 23:46:44</sup>](https://github.com/Planet-Source-Code/michael-heath-aichatter-update-2__1-8004) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Michael Heath | 4.7 (28 globes from 6 users)
+3 | [A Time Diff Function<br /><sup>2000-03-24 21:09:00</sup>](https://github.com/Planet-Source-Code/michael-heath-a-time-diff-function__1-6818) | [Miscellaneous<br /><sup>Visual Basic</sup>](../ByCategory/miscellaneous__1-1.md) | Michael Heath | 4.2 (21 globes from 5 users)
+4 | [Awesome Raise 3D almost any control\! \[FIXED\]<br /><sup>1999-12-17 13:14:16</sup>](https://github.com/Planet-Source-Code/michael-heath-awesome-raise-3d-almost-any-control-fixed__1-4970) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Michael Heath | 5.0 (20 globes from 4 users)
+5 | [Form Manipulator \[Revisited\]<br /><sup>2000-02-12 00:43:22</sup>](https://github.com/Planet-Source-Code/michael-heath-form-manipulator-revisited__1-6026) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Michael Heath | 3.3 (20 globes from 6 users)
+6 | [AIChatter\[Update 1\]<br /><sup>2000-05-04 01:07:54</sup>](https://github.com/Planet-Source-Code/michael-heath-aichatter-update-1__1-7845) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Michael Heath | 4.5 (18 globes from 4 users)
+7 | [IniEditor\[TreeNode Style\]<br /><sup>2000-10-18 01:14:46</sup>](https://github.com/Planet-Source-Code/michael-heath-inieditor-treenode-style__1-12156) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Michael Heath | 4.3 (17 globes from 4 users)
+8 | [Anonymous Email Msg \[ASP Code\]<br /><sup>2002-10-14 11:38:42</sup>](https://github.com/Planet-Source-Code/michael-heath-anonymous-email-msg-asp-code__1-5285) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | Michael Heath | 4.0 (16 globes from 4 users)
+9 | [A Pak File Creator<br /><sup>2000-03-22 23:16:08</sup>](https://github.com/Planet-Source-Code/michael-heath-a-pak-file-creator__1-6703) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | Michael Heath | 4.0 (16 globes from 4 users)
+10 | [Awesome 3D Buttons\! No OCX's<br /><sup>1999-12-12 23:17:22</sup>](https://github.com/Planet-Source-Code/michael-heath-awesome-3d-buttons-no-ocx-s__1-4875) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Michael Heath | 5.0 (15 globes from 3 users)
+11 | [ParseVBP \[Updated\!\!\!\]<br /><sup>2002-06-08 14:48:00</sup>](https://github.com/Planet-Source-Code/michael-heath-parsevbp-updated__1-35603) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | Michael Heath | 5.0 (15 globes from 3 users)
+12 | [AppenderPak<br /><sup>2000-03-29 00:17:20</sup>](https://github.com/Planet-Source-Code/michael-heath-appenderpak__1-6869) | [Miscellaneous<br /><sup>Visual Basic</sup>](../ByCategory/miscellaneous__1-1.md) | Michael Heath | 4.3 (13 globes from 3 users)
+13 | [IniEditor\[TreeNode Update\]<br /><sup>2000-11-02 01:12:48</sup>](https://github.com/Planet-Source-Code/michael-heath-inieditor-treenode-update__1-12469) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Michael Heath | 4.0 (12 globes from 3 users)
+14 | [IniViewer\(TreeNode Style\)<br /><sup>2000-10-16 01:07:10</sup>](https://github.com/Planet-Source-Code/michael-heath-iniviewer-treenode-style__1-12084) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | Michael Heath | 4.0 (8 globes from 2 users)

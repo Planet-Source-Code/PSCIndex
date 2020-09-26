@@ -1,0 +1,18 @@
+﻿<div align="center">
+
+## All Submissions by Sriharish\.H
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [EXE Protector v1\.2\-\-\>7 Hardware Fingerprints, Memory Encryption, Public Key Encryption and More<br /><sup>2004-12-31 18:37:04</sup>](https://github.com/Planet-Source-Code/sriharish-h-exe-protector-v1-2-7-hardware-fingerprints-memory-encryption-public-key-encryp__1-58026) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Sriharish\.H | 4.8 (665 globes from 140 users)
+2 | [CONVERT EXE FILES TO SHAREWARE VERSIONS\-now supports VB, VC\+\+, Flash,\.NET, MASM and Screensavers<br /><sup>2004-07-22 15:42:02</sup>](https://github.com/Planet-Source-Code/sriharish-h-convert-exe-files-to-shareware-versions-now-supports-vb-vc-flash-net-masm-and-__1-55284) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Sriharish\.H | 4.8 (579 globes from 120 users)
+3 | [License File Registration Xp<br /><sup>2003-02-22 14:45:56</sup>](https://github.com/Planet-Source-Code/sriharish-h-license-file-registration-xp__1-43445) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Sriharish\.H | 4.7 (135 globes from 29 users)
+4 | [Internet Product Activation \*Updated\* \( With Restore Facility\)<br /><sup>2003-03-02 10:39:54</sup>](https://github.com/Planet-Source-Code/sriharish-h-internet-product-activation-updated-with-restore-facility__1-43822) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | Sriharish\.H | 4.7 (126 globes from 27 users)
+5 | [Internet Product ACTIVATION<br /><sup>2003-02-11 15:57:36</sup>](https://github.com/Planet-Source-Code/sriharish-h-internet-product-activation__1-43246) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | Sriharish\.H | 4.7 (90 globes from 19 users)
+6 | [The Best Guide for protecting your VB Exe's<br /><sup>2003-12-02 14:57:34</sup>](https://github.com/Planet-Source-Code/sriharish-h-the-best-guide-for-protecting-your-vb-exe-s__1-50277) | [Coding Standards<br /><sup>Visual Basic</sup>](../ByCategory/coding-standards__1-43.md) | Sriharish\.H | 5.0 (55 globes from 11 users)
+7 | [Ultimate Source Code Storage Database Xp<br /><sup>2003-03-16 09:37:22</sup>](https://github.com/Planet-Source-Code/sriharish-h-ultimate-source-code-storage-database-xp__1-44384) | [Databases/ Data Access/ DAO/ ADO<br /><sup>Visual Basic</sup>](../ByCategory/databases-data-access-dao-ado__1-6.md) | Sriharish\.H | 4.7 (42 globes from 9 users)
+8 | [IMPORT MS\-WORD Spell Check to your Apps \(480,000 words \+ Sugestions\)<br /><sup>2003-11-04 16:16:16</sup>](https://github.com/Planet-Source-Code/sriharish-h-import-ms-word-spell-check-to-your-apps-480-000-words-sugestions__1-49673) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Sriharish\.H | 4.7 (42 globes from 9 users)
+9 | [TEXT Auto Filler Xp \( Like IE address autofill\)<br /><sup>2003-02-22 14:50:40</sup>](https://github.com/Planet-Source-Code/sriharish-h-text-auto-filler-xp-like-ie-address-autofill__1-43446) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | Sriharish\.H | 4.2 (25 globes from 6 users)
+10 | [HTML File Compression with enhanced compression<br /><sup>2004-02-03 14:58:04</sup>](https://github.com/Planet-Source-Code/sriharish-h-html-file-compression-with-enhanced-compression__1-51467) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | Sriharish\.H | 5.0 (10 globes from 2 users)

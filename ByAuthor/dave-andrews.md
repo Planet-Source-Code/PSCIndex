@@ -1,0 +1,26 @@
+﻿<div align="center">
+
+## All Submissions by Dave Andrews
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [Optical Mouse Camera<br /><sup>2002-07-03 11:54:22</sup>](https://github.com/Planet-Source-Code/dave-andrews-optical-mouse-camera__1-36511) | [Jokes/ Humor<br /><sup>Visual Basic</sup>](../ByCategory/jokes-humor__1-40.md) | Dave Andrews | 4.2 (247 globes from 59 users)
+2 | [Delaunay Triangulation Mesh Builder<br /><sup>2002-06-14 16:10:14</sup>](https://github.com/Planet-Source-Code/dave-andrews-delaunay-triangulation-mesh-builder__1-35722) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Dave Andrews | 4.8 (222 globes from 46 users)
+3 | [View DXF FIles<br /><sup>2001-01-25 08:32:28</sup>](https://github.com/Planet-Source-Code/dave-andrews-view-dxf-files__1-14710) | [Data Structures<br /><sup>Visual Basic</sup>](../ByCategory/data-structures__1-33.md) | Dave Andrews | 4.8 (110 globes from 23 users)
+4 | [QSCRAB \- 3D Cubic Scrabble ™<br /><sup>2002-05-03 14:13:58</sup>](https://github.com/Planet-Source-Code/dave-andrews-qscrab-3d-cubic-scrabble__1-34351) | [Games<br /><sup>Visual Basic</sup>](../ByCategory/games__1-38.md) | Dave Andrews | 4.9 (97 globes from 20 users)
+5 | [Pond Ripples<br /><sup>2001-06-01 11:37:18</sup>](https://github.com/Planet-Source-Code/dave-andrews-pond-ripples__1-23679) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Dave Andrews | 4.6 (69 globes from 15 users)
+6 | [Transparent Skin Textbox AND Buttons<br /><sup>2000-10-23 15:17:40</sup>](https://github.com/Planet-Source-Code/dave-andrews-transparent-skin-textbox-and-buttons__1-12245) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Dave Andrews | 4.2 (55 globes from 13 users)
+7 | [VB CAD / Mesh Builder Update 2<br />](https://github.com/Planet-Source-Code/dave-andrews-vb-cad-mesh-builder-update-2__1-35853) | [Graphics<br /><sup>Visual Basic</sup>](../ByCategory/graphics__1-46.md) | Dave Andrews | 4.9 (34 globes from 7 users)
+8 | [API Password Box<br /><sup>2002-10-10 07:35:28</sup>](https://github.com/Planet-Source-Code/dave-andrews-api-password-box__1-39702) | [Libraries<br /><sup>Visual Basic</sup>](../ByCategory/libraries__1-49.md) | Dave Andrews | 4.8 (29 globes from 6 users)
+9 | [API ListBox<br /><sup>2001-05-01 15:49:48</sup>](https://github.com/Planet-Source-Code/dave-andrews-api-listbox__1-22850) | [VB function enhancement<br /><sup>Visual Basic</sup>](../ByCategory/vb-function-enhancement__1-25.md) | Dave Andrews | 4.7 (28 globes from 6 users)
+10 | [Transparent Buttons \(UPDATED\)<br /><sup>2000-05-12 08:43:28</sup>](https://github.com/Planet-Source-Code/dave-andrews-transparent-buttons-updated__1-7880) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Dave Andrews | 4.5 (27 globes from 6 users)
+11 | [Dungeon Mapper 3D \(Updated\)<br /><sup>2001-06-04 22:14:38</sup>](https://github.com/Planet-Source-Code/dave-andrews-dungeon-mapper-3d-updated__1-23773) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | Dave Andrews | 5.0 (25 globes from 5 users)
+12 | [SHOW DATE TIME CALENDAR DIALOG \- HOOKED API ONLY<br /><sup>2001-05-01 16:10:16</sup>](https://github.com/Planet-Source-Code/dave-andrews-show-date-time-calendar-dialog-hooked-api-only__1-21994) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Dave Andrews | 4.2 (21 globes from 5 users)
+13 | [Magic Strategy Game \(3D DirectX\)<br /><sup>2002-06-05 12:02:16</sup>](https://github.com/Planet-Source-Code/dave-andrews-magic-strategy-game-3d-directx__1-35545) | [Games<br /><sup>Visual Basic</sup>](../ByCategory/games__1-38.md) | Dave Andrews | 5.0 (20 globes from 4 users)
+14 | [REAL Transparent Textbox<br /><sup>2001-05-10 08:33:06</sup>](https://github.com/Planet-Source-Code/dave-andrews-real-transparent-textbox__1-23089) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | Dave Andrews | 4.0 (16 globes from 4 users)
+15 | [Sodoku In Excel<br /><sup>2006-06-12 09:37:28</sup>](https://github.com/Planet-Source-Code/dave-andrews-sodoku-in-excel__1-65646) | [Games<br /><sup>Visual Basic</sup>](../ByCategory/games__1-38.md) | Dave Andrews | 5.0 (15 globes from 3 users)
+16 | [The 'Same' Game<br /><sup>2000-02-10 15:37:56</sup>](https://github.com/Planet-Source-Code/dave-andrews-the-same-game__1-5998) | [Games<br /><sup>Visual Basic</sup>](../ByCategory/games__1-38.md) | Dave Andrews | 4.7 (14 globes from 3 users)
+17 | [VB  \-  IZZY<br /><sup>2002-03-20 15:26:54</sup>](https://github.com/Planet-Source-Code/dave-andrews-vb-izzy__1-32884) | [Games<br /><sup>Visual Basic</sup>](../ByCategory/games__1-38.md) | Dave Andrews | 4.7 (14 globes from 3 users)
+18 | [Word Racer and Boggle Solver \(UPDATED\)<br /><sup>2002-04-26 10:09:08</sup>](https://github.com/Planet-Source-Code/dave-andrews-word-racer-and-boggle-solver-updated__1-34107) | [Games<br /><sup>Visual Basic</sup>](../ByCategory/games__1-38.md) | Dave Andrews | 5.0 (10 globes from 2 users)

@@ -1,0 +1,19 @@
+﻿<div align="center">
+
+## All Submissions by AdamSpicer
+
+</div>
+
+No.  | Submission | Category | By   | User Rating
+---- | ---------- | -------- | ---- | -----------
+1 | [VERY EASY CHAT W/ Winsock \*must see\*<br /><sup>2000-05-16 22:20:08</sup>](https://github.com/Planet-Source-Code/adamspicer-very-easy-chat-w-winsock-must-see__1-8190) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | AdamSpicer | 4.6 (87 globes from 19 users)
+2 | [Using CommonDialog \(Open, Save, Print, Font, Color\)<br /><sup>2000-06-04 13:39:14</sup>](https://github.com/Planet-Source-Code/adamspicer-using-commondialog-open-save-print-font-color__1-8627) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | AdamSpicer | 4.6 (74 globes from 16 users)
+3 | [Connect Infinite Number Of Computer Using Winsock\!\!\!<br /><sup>2000-06-18 21:54:56</sup>](https://github.com/Planet-Source-Code/adamspicer-connect-infinite-number-of-computer-using-winsock__1-9035) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | AdamSpicer | 4.6 (37 globes from 8 users)
+4 | [Using TabStrips<br /><sup>2000-05-29 02:29:38</sup>](https://github.com/Planet-Source-Code/adamspicer-using-tabstrips__1-8437) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | AdamSpicer | 4.3 (34 globes from 8 users)
+5 | [Battleship ONLINE\!\!\!\!\!\*\*\*\*\(winsock\)<br /><sup>2000-06-01 02:27:32</sup>](https://github.com/Planet-Source-Code/adamspicer-battleship-online-winsock__1-8510) | [Complete Applications<br /><sup>Visual Basic</sup>](../ByCategory/complete-applications__1-27.md) | AdamSpicer | 4.7 (33 globes from 7 users)
+6 | [SEND FILES over a network or the internet using WINSOCK  \|commented well\|<br /><sup>2001-02-25 18:36:26</sup>](https://github.com/Planet-Source-Code/adamspicer-send-files-over-a-network-or-the-internet-using-winsock-commented-well__1-21502) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | AdamSpicer | 4.5 (27 globes from 6 users)
+7 | [Beginners\*\* Move\-form no caption and make your own custom titlebar<br /><sup>2000-04-21 15:21:02</sup>](https://github.com/Planet-Source-Code/adamspicer-beginners-move-form-no-caption-and-make-your-own-custom-titlebar__1-7463) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | AdamSpicer | 5.0 (25 globes from 5 users)
+8 | [The easiest way to SEND FILES via WINSOCK\!\!<br /><sup>2001-01-01 11:05:28</sup>](https://github.com/Planet-Source-Code/adamspicer-the-easiest-way-to-send-files-via-winsock__1-14003) | [Internet/ HTML<br /><sup>Visual Basic</sup>](../ByCategory/internet-html__1-34.md) | AdamSpicer | 4.6 (23 globes from 5 users)
+9 | [Allow Only NUMBERS in a textbox\!  simple<br /><sup>2000-06-01 02:26:32</sup>](https://github.com/Planet-Source-Code/adamspicer-allow-only-numbers-in-a-textbox-simple__1-8512) | [Files/ File Controls/ Input/ Output<br /><sup>Visual Basic</sup>](../ByCategory/files-file-controls-input-output__1-3.md) | AdamSpicer | 3.7 (22 globes from 6 users)
+10 | [A New Screen Saver Lookalike\!\!\!<br /><sup>2000-06-04 00:31:14</sup>](https://github.com/Planet-Source-Code/adamspicer-a-new-screen-saver-lookalike__1-8615) | [Custom Controls/ Forms/  Menus<br /><sup>Visual Basic</sup>](../ByCategory/custom-controls-forms-menus__1-4.md) | AdamSpicer | 5.0 (15 globes from 3 users)
+11 | [Learn How To Use A Listbox\!\!<br /><sup>2000-06-02 23:38:48</sup>](https://github.com/Planet-Source-Code/adamspicer-learn-how-to-use-a-listbox__1-8581) | [Miscellaneous<br /><sup>Visual Basic</sup>](../ByCategory/miscellaneous__1-1.md) | AdamSpicer | 5.0 (10 globes from 2 users)
